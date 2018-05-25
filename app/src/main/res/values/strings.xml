@@ -1,0 +1,9 @@
+<resources>
+  <string name="app_name">JustAnotherAndroidProject</string>
+  <string name="push_here">push here</string>
+  <string name="edit_message">Enter a Message</string>
+  <string name="Editable_text">EditableText</string>
+  <string name="button_send">button_send</string>string>
+  <string name="hint_text">hint text</string>
+
+</resources>
